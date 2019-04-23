@@ -1,3 +1,5 @@
+# live view: https://quizzical-montalcini-f10556.netlify.com/
+
 # simple-login app with VUE.js
 
 login: user
